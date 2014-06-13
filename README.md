@@ -1,0 +1,4 @@
+OpenPilotAtomShape
+==================
+
+Atom CAD outline
